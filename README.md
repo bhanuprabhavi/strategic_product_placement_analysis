@@ -3,10 +3,10 @@ Strategic Product Placement Sales Impact Analysis
 This project analyzes how product placement impacts sales performance using data analytics and visualization. The goal is to help businesses make smarter decisions about where and how to place products in stores or digital platforms to maximize visibility and conversions.
 
 Project Overview:
-Project Name: Strategic Product Placement Sales Impact Analysis
-Objective: To study the correlation between product positioning and sales volume.
-Tools Used: Tableau, Python (Pandas), SQL, Excel
-Domain: Retail / E-commerce / Marketing Analytics
+- Project Name: Strategic Product Placement Sales Impact Analysis
+- Objective: To study the correlation between product positioning and sales volume.
+- Tools Used: Tableau
+- Domain: Retail / E-commerce / Marketing Analytics
 
 Features:
 - Interactive Dashboards for visualizing sales performance by product position
@@ -21,12 +21,12 @@ Key Visualizations:
 - price difference with competitors and saleas volume
 
 Final Report:
-A detailed report covering:
-Problem Statement
-Brainstorming Ideas
-Ideation and Design
-Empathy map and Customer Journey map
-Data Flow Diagram & Architecture
-Dashboards and Story
-Testing & Results
-→ Check the full report in Project files/Strategic Product Placement Final Report.docx.
+-A detailed report covering:
+  - Problem Statement
+  - Brainstorming Ideas
+  - Ideation and Design
+  - Empathy map and Customer Journey map
+  - Data Flow Diagram & Architecture
+  - Dashboards and Story
+  - Testing & Results
+  → Check the full report in Project files/Strategic Product Placement Final Report.docx.
